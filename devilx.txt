@@ -55,7 +55,7 @@ Section:NewButton("Console spam", "Spamma emoji sulla console (f9) :)", function
     print("Not Working rn")
 end)
 
-Section:NewButton("GhostHub", "ICEHUB", function()
+Section:NewButton("GhostHub", "ghub", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub%27'))()
 end)
 
