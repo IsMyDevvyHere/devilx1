@@ -67,6 +67,10 @@ Section:NewButton("Fe Yeet", "fe yeet gui", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/8EqL9rJq"))();
 end)
 
+Section:NewButton("SimpleSpy", "Do not use with icehub opened", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/xzYge9sn"))();
+end)
+
 local Tab = Window:NewTab("Aim")
 local Section = Tab:NewSection("Hubs")
 
