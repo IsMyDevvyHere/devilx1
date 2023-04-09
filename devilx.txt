@@ -63,6 +63,9 @@ Section:NewButton("Op", "probably patched", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/zaGJWAMe'))()
 end)
 
+Section:NewButton("Fe Yeet", "fe yeet gui", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+end)
 
 local Tab = Window:NewTab("Aim")
 local Section = Tab:NewSection("Hubs")
