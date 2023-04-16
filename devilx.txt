@@ -27,6 +27,10 @@ Section:NewButton("UnfairHub", "UnfairHUB", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua'),true))()
 end)
 
+Section:NewButton("Doors", "Doors", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
+end)
+
 Section:NewButton("VHub", "Usa le Hack di VHub", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/Veincx5315/Created/VHub/Simple'),true))()
 end)
